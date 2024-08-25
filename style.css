@@ -1,0 +1,19 @@
+#all-buttons{
+    display: flex;
+    justify-content: space-around;
+}
+
+.singleNews{
+    margin-top: 20px;
+}
+
+.news-photo{
+    width: 220px;
+    height: 230px;
+}
+
+.loading-spin{
+    text-align: center;
+    padding: 50px;
+    display: none;
+}
